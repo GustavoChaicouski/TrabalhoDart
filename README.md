@@ -1,6 +1,6 @@
 # Trabalho 1 - Hello World em Dart
 ##  Autor
-Gustavo Chaicouski
+Gustavo Santos Chaicouski
 
 ##  Objetivo
 Este projeto tem como objetivo verificar a correta configuração do ambiente de desenvolvimento para a linguagem Dart, bem como a execução de um programa simples no terminal.
